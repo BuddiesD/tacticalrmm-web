@@ -531,7 +531,7 @@
                   <div class="col-4 text-caption text-grey-7 q-pr-lg">
                     Available: <b>{agent}</b>, <b>{client}</b>,
                     <b>{site}</b>, <b>{site_id}</b>, <b>{policy}</b>, <b>{alert_name}</b>,
-                    <b>{alert_status}</b>, <b>{subject}</b>.
+                    <b>{alert_status}</b>, <b>{last_response}</b>, <b>{subject}</b>.
                   </div>
                   <q-input
                     outlined
@@ -546,7 +546,7 @@
                   <div class="col-4 text-caption text-grey-7 q-pr-lg">
                     Available: <b>{details}</b>, <b>{body}</b>, <b>{subject}</b>,
                     <b>{agent}</b>, <b>{client}</b>, <b>{site}</b>,
-                    <b>{site_id}</b>, <b>{policy}</b>.
+                    <b>{site_id}</b>, <b>{policy}</b>, <b>{last_response}</b>.
                   </div>
                   <q-input
                     outlined
@@ -565,7 +565,7 @@
                   <div class="col-4 text-caption text-grey-7 q-pr-lg">
                     Available: <b>{agent}</b>, <b>{client}</b>,
                     <b>{site}</b>, <b>{site_id}</b>, <b>{policy}</b>, <b>{alert_name}</b>,
-                    <b>{alert_status}</b>, <b>{subject}</b>.
+                    <b>{alert_status}</b>, <b>{last_response}</b>, <b>{subject}</b>.
                   </div>
                   <q-input
                     outlined
@@ -580,7 +580,7 @@
                   <div class="col-4 text-caption text-grey-7 q-pr-lg">
                     Available: <b>{details}</b>, <b>{body}</b>, <b>{subject}</b>,
                     <b>{agent}</b>, <b>{client}</b>, <b>{site}</b>,
-                    <b>{site_id}</b>, <b>{policy}</b>.
+                    <b>{site_id}</b>, <b>{policy}</b>, <b>{last_response}</b>.
                   </div>
                   <q-input
                     outlined
